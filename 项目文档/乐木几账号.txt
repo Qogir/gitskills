@@ -1,0 +1,25 @@
+原型资料
+http://192.168.1.41:8800/product/retail
+
+
+禅道账号
+http://192.168.1.41:8802/zentao/my-profile.html
+wangyaowei
+1mtheking
+
+
+gitlab
+http://192.168.1.41:8800
+wangyaowei
+1mtheking
+
+私服地址
+http://192.168.1.41:8081/repository/maven-public
+
+
+数据库 navicat 12版本
+
+spring.datasource.url=jdbc:mysql://192.168.1.41:3306/sms?autoReconnect=true&useUnicode=true&characterEncoding=utf8&characterSetResults=utf8&useSSL=false
+spring.datasource.username=root
+spring.datasource.password=123456
+
