@@ -1,0 +1,11 @@
+diff a/项目文档/供应商模块/商品搜索模块/application.txt b/项目文档/供应商模块/商品搜索模块/application.txt	(rejected hunks)
+@@ -1,8 +0,0 @@
+-#kafka
+-spring.kafka.consumer.group-id=lemuji
+-spring.kafka.template.default-topic=lemuji.cloudshop.supplier.commodity.search
+-spring.kafka.listener.concurrency=3
+-lemuji.cloudshop.supplier.commodity.search=lemuji.cloudshop.supplier.commodity.search
+-
+-#kafka
+-spring.kafka.bootstrap-servers=192.168.1.44:9092
+\ No newline at end of file

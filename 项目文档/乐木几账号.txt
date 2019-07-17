@@ -35,3 +35,14 @@ wangyaowei
 1mtheking
 
 
+
+es工具
+
+工具地址
+http://192.168.1.44:9202/
+es数据地址
+http://192.168.1.44:9200
+
+cms管理工具
+http://192.168.1.41:8800/developer/lemuji.tools
+
